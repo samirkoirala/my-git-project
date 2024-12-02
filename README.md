@@ -1,2 +1,3 @@
 # My Git project
-Changes in dev branch
+Resolved Conflicts
+Resolved Conflicts
