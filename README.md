@@ -1,2 +1,3 @@
 # My Git project
-Change made in feat branch
+Resolved Conflicts
+Resolved Conflicts
