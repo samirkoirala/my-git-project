@@ -15,3 +15,5 @@ def advanced_func6():
     return "Advanced Functionality 6"
 def advanced_func7():
     return "Advanced Functionality 7"
+def advanced_func8():
+    return "Advanced Functionality 8"   
